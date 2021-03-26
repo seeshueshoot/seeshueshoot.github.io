@@ -4,13 +4,14 @@ body {
 	padding: 0 px;
 	background-color: mintcream;
 	font-family: "Josefin Sans", "Trebuchet MS", Arial, "sans-serif";
+	font-size: 16px;
 	padding: 10px;
 }
 section {
 	float:left;
 	width:;
 	height:;
-	padding: 20px;
+	padding: 10px;
 }
 h1 {
 font-family: Georgia, serif;
@@ -34,6 +35,12 @@ text-align:left;
 color: navy;	
 }
 
+h4 {
+font-family: Georgia, serif;
+font-size: 18px;
+text-align:left;
+color: navy;	
+}
 	
 nav {
 	border: 2px dotted #0088dd;
@@ -42,13 +49,14 @@ nav {
 	margin-bottom:;
 	margin-left:;
 	margin-right:;
-	padding: 10px;
+	padding:10px;
 	text-align:center;
 }
 
 nav li {
 	display: inline;
 	margin-right: 150px;
+	padding: 5px;
 	border:;
 	color:;
 	text-decoration:;
@@ -69,7 +77,7 @@ a:visited {
   display:;
 }
 a:hover {
-	text-decoration:;
+  text-decoration:;
   font-size:20px;
   font-weight: bold;
   color: indianred;
